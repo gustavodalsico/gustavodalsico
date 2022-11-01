@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @gustavodalsico
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gustavodalsico/gustavodalsico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# sobre mim
+ ola meu nome é @gustavodalsico
+ 
+o meu indereço de contato gustavo.belussi@escola.pr.gov.br
+- 👀 estou enterresado em aprender a programar novas linguagens.
+- 🌱 estou aprendendo a programar recentementea linguagens de javasScript e Scratch
