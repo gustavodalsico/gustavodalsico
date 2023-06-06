@@ -1,6 +1,10 @@
    :root {
-    --branco-principal: #FFFFFFF
-    
-
-   }
-    
+    --branco-principal: white;
+    --cinza-secundario: gray;
+    --botao-azul: blue;
+    --cor-de-fundo: black;
+  }
+  
+  body{   
+   background-color: var(--cor-de-fundo);
+  }
