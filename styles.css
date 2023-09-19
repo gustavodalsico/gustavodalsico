@@ -16,6 +16,13 @@
 }
 
 .principal { 
-  background-image: url("img/background.png)"
+  background-image: url("img/background.png");
+  background-repeat: no-repeat;
+  background-size: contain;
 }
+ 
+.container {
+  height: 100vh;
+}
+
 
